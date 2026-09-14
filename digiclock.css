@@ -1,0 +1,20 @@
+*{
+     margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+   color: #092328;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:80vh;
+    background-color: #12544F;
+
+}
+.time{
+    color: #8BBB92;
+    font-size: 80px;
+}
